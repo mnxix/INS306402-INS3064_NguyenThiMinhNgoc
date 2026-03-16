@@ -26,7 +26,7 @@
         echo "Họ tên: Nguyễn Thị Minh Ngọc <br>";
         echo "Ngày sinh: 19/12/2004 <br>";
         echo "Quê quán: Bắc Ninh <br>";
-        echo "Sở thích: Đọc sách, đi du lịch <br><br>";
+        echo "Sở thích: Đọc sách, Đi du lịch <br><br>";
         echo "Thời gian truy cập: " . date("26/01/2026 10:10:10");
     ?>
 </div>
